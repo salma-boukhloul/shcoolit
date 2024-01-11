@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.t1{
+    color: white;
+    float: left;
+    font-size: 30px;
+    background: grey;
+    border-radius: 100%;
+}
+ul{
+    float: right;
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 10px;
+    font-size: 22px;
+    color: white;
+}
+nav{
+    height: 67px;
+    background-color: palevioletred;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn1{
+    background: #009999;
+    border-radius: 100%;
+    color: white;
+    padding: 5px;
+}
+.content{
+    height: 600px;
+    background-image: url(./children.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.c1{
+    padding: 150px;
+}   
+.tcontent{
+    color: white;
+    font-size: 60px;
+}
+.p1{
+    margin-top: 25px;
+    color: white;
+    
+}
+.btn1{
+    margin-top: 20px;
+}
+/* section 2 */
+body{
+    background: beige;
+}
+.t2{
+    text-align: center;
+    font-size: 40px;
+    color: palevioletred;
+    margin: 20px;
+}
+.c2{
+    width: 70%;
+    float: left;
+}
+.secImg{
+    width: 30%;
+    float: right;
+}
+#img{
+    height: 480px;
+    width: 400px;
+}
+.btn2{
+    background: #009999;
+    border-radius: 100%;
+    color: white;
+    padding: 10px;
+    margin-left: 400px;
+}
+
+/* section 3 */
+body{
+    background: beige;
+}
+.t3{
+    text-align: center;
+    font-size: 40px;
+    color: palevioletred;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.d{
+    width: 31%;
+    height: 155px;
+    float: left;
+    padding: 10px;
+    background-color: rgb(182, 175, 175);
+}
+h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.d:hover{
+    background-color: white;
+}
+.t4{
+    text-align: center;
+    font-size: 40px;
+    color: palevioletred;
+    margin: 20px;
+    margin-top: 20px;
+    margin-right: 5px;
+}  
+.btn3{
+    background: #009999;
+    border-radius: 100%;
+    color: white;
+    padding: 10px;
+    margin-left: 150px;
+}
+.form1{
+    height: 80%;
+    float: left;
+    margin-right: 90px;
+}
+footer{
+    background-color: palevioletred;
+    color: white;
+    height: 40px;
+    text-align: center;
+}
